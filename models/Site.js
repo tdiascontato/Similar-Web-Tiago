@@ -1,8 +1,7 @@
 const mongoose = require("mongoose");
-
 const siteSchema = new mongoose.Schema({
   url: String,
-  data: Object,
+  dados: Object,
 });
 
 module.exports = mongoose.model("Site", siteSchema);
