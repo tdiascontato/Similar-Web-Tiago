@@ -1,6 +1,7 @@
 # Projeto Similar Web - Tiago
 
 Este projeto utiliza Node.js para criar uma API que realiza scraping de dados do SimilarWeb e armazena as informações em um banco de dados MongoDB.
+![image](https://github.com/tdiascontato/Similar-Web-Tiago/assets/98658691/617359cd-e6a6-40be-91a6-2e355933374f)
 
 ## Instalação
 
